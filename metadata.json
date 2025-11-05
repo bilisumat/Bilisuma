@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "Upload a photo and use AI to edit it with simple text prompts. The application leverages Gemini to understand your requests and generate stunning image variations.",
+  "requestFramePermissions": []
+}
